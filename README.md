@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ShubhamSethi016/ShubhamSethi016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt Text](http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif)
 
 Here are some ideas to get you started:
 
