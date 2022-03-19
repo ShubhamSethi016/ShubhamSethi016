@@ -3,7 +3,7 @@
  ![introgif](https://user-images.githubusercontent.com/67235116/159134499-7c842763-298f-4959-befa-bb27fd7dc076.gif)
 
  
- <h3> || HI || BONJOUR || NAMASTE ||</h3> 
+ <h3>:grinning: || HI || BONJOUR || NAMASTE || :grinning:</h3> 
   <h3>:octocat: I'm <b>Shubham Sethi</b>, an aspiring <b> Software Developer </b> :octocat:</h3>
 </div>
 
