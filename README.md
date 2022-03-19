@@ -1,7 +1,8 @@
 <div align="center">
  
- ![introgif](https://user-images.githubusercontent.com/67235116/159134499-7c842763-298f-4959-befa-bb27fd7dc076.gif)
+<!--  ![introgif](https://user-images.githubusercontent.com/67235116/159134499-7c842763-298f-4959-befa-bb27fd7dc076.gif = 250x250) -->
 
+ <img src = "https://user-images.githubusercontent.com/67235116/159134499-7c842763-298f-4959-befa-bb27fd7dc076.gif" width="1000px" height="450px" />
  
  <h3>:grinning: || HI || BONJOUR || NAMASTE || :grinning:</h3> 
   <h3>:octocat: I'm <b>Shubham Sethi</b>, an aspiring <b> Software Developer </b> :octocat:</h3>
