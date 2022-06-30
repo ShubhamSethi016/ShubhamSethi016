@@ -36,5 +36,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamsethi016&show_icons=true&locale=en&layout=compact" alt="shubhamsethi016" /></p>
 
-<!-- TOTAL STARS EARNED -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsethi016&show_icons=true&locale=en" alt="shubhamsethi016" /></p> -->
+TOTAL STARS EARNED
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsethi016&show_icons=true&locale=en" alt="shubhamsethi016" /></p>
